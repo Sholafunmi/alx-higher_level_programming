@@ -2,14 +2,14 @@
 """A file writing function"""
 
 def write_file(filename="", text=""):
-    """Writes a string to the UTF-8 text file"""
+    """ Writes a string to the UTF-8 text file
 
-    """ Args:
+        Args:
         filename (str): The name of the file to write.
         text (str): The text to write to the file.
-    """
+    
 
-    """ Returns:
+        Returns:
         The number of characters written.
     """
 
